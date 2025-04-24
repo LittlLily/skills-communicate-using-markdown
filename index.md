@@ -3,3 +3,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] リスト構文が必要
+- [x] この項目は完了しています
+- [ ] この項目は未完了です
